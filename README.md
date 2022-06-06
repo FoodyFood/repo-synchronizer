@@ -7,9 +7,9 @@ This script was my solution, and since it's pretty basic I figured I'd put it on
 ### Usage
 
 ```bash
-./sync.sh git@github.com:FoodyFood/repo-synchronizer.git git@github.com:FoodyFood/repo-synchronizer-2.git
+./sync.sh git@github.com:FoodyFood/repo-1.git git@github.com:FoodyFood/repo-2.git
 ```
 
-### Repo Providors
+### Repo Providers
 
 Since the sommands lean totally on git and dont really have anything to do with the providor, I see no reason why this wouldnt work between any 2 providors and any 2 repos.
